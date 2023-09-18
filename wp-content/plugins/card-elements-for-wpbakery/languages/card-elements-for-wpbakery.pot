@@ -1,0 +1,1082 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Card Elements for WPBakery\n"
+"POT-Creation-Date: 2022-11-25 16:26+0530\n"
+"PO-Revision-Date: 2017-03-11 16:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: Techeshta <info@techeshta.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2c;esc_attr_e;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: card-elements-for-wpbakery.php:125 card-elements-for-wpbakery.php:132
+#: card-elements-for-wpbakery.php:149
+msgid "Card Elements for WPBakery"
+msgstr ""
+
+#: card-elements-for-wpbakery.php:125
+msgid ""
+" plugin is not working because you need to activate the WPBakery plugin."
+msgstr ""
+
+#: card-elements-for-wpbakery.php:126
+msgid "Activate WPBakery Now"
+msgstr ""
+
+#: card-elements-for-wpbakery.php:132
+msgid ""
+" plugin is not working because you need to install the WPBakery plugin."
+msgstr ""
+
+#: card-elements-for-wpbakery.php:133
+msgid "Get WPBakery"
+msgstr ""
+
+#: card-elements-for-wpbakery.php:149
+msgid ""
+" plugin is not working because you are using an old version of WPBakery."
+msgstr ""
+
+#: card-elements-for-wpbakery.php:150
+msgid "Get Latest WPBakery"
+msgstr ""
+
+#: include/iconpicker-support.php:10
+msgid "FontAwesome"
+msgstr ""
+
+#: include/iconpicker-support.php:26 include/iconpicker-support.php:40
+#: include/iconpicker-support.php:54 include/iconpicker-support.php:68
+msgid "Icon"
+msgstr ""
+
+#: include/post-card/functions-post-card.php:98
+msgid "Posted by"
+msgstr ""
+
+#: include/post-card/functions-post-card.php:115
+msgid "By"
+msgstr ""
+
+#: include/post-card/functions-post-card.php:155
+#: include/post-card/functions-post-card.php:176
+msgid ", "
+msgstr ""
+
+#: include/post-card/functions-post-card.php:159
+msgid "Posted in"
+msgstr ""
+
+#: include/post-card/functions-post-card.php:180
+msgid "Tags:"
+msgstr ""
+
+#: include/post-card/functions-post-card.php:201
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: widgets/post-card-widget.php:122 widgets/profile-card-widget.php:98
+#: widgets/testimonial-card-widget.php:64
+msgid "Card Style 1"
+msgstr ""
+
+#: widgets/post-card-widget.php:123 widgets/profile-card-widget.php:99
+#: widgets/testimonial-card-widget.php:65
+msgid "Card Style 2"
+msgstr ""
+
+#: widgets/post-card-widget.php:124 widgets/testimonial-card-widget.php:66
+msgid "Card Style 6"
+msgstr ""
+
+#: widgets/post-card-widget.php:131
+msgid "1"
+msgstr ""
+
+#: widgets/post-card-widget.php:132
+msgid "2"
+msgstr ""
+
+#: widgets/post-card-widget.php:133
+msgid "3"
+msgstr ""
+
+#: widgets/post-card-widget.php:134
+msgid "4"
+msgstr ""
+
+#: widgets/post-card-widget.php:135 widgets/post-card-widget.php:218
+msgid "6"
+msgstr ""
+
+#: widgets/post-card-widget.php:142
+msgid "Thumbnail - 150 x 150"
+msgstr ""
+
+#: widgets/post-card-widget.php:143
+msgid "Medium - 300 x 300"
+msgstr ""
+
+#: widgets/post-card-widget.php:144
+msgid "Medium Large - 768 x 0"
+msgstr ""
+
+#: widgets/post-card-widget.php:145
+msgid "Large - 1024 x 1024"
+msgstr ""
+
+#: widgets/post-card-widget.php:146
+msgid "1536x1536 - 1536 x 1536"
+msgstr ""
+
+#: widgets/post-card-widget.php:147
+msgid "2048x2048 - 2048 x 2048"
+msgstr ""
+
+#: widgets/post-card-widget.php:148
+msgid "Post Card Thumb - 680 x 460"
+msgstr ""
+
+#: widgets/post-card-widget.php:149
+msgid "Full"
+msgstr ""
+
+#: widgets/post-card-widget.php:156
+msgid "H1"
+msgstr ""
+
+#: widgets/post-card-widget.php:157
+msgid "H2"
+msgstr ""
+
+#: widgets/post-card-widget.php:158
+msgid "H3"
+msgstr ""
+
+#: widgets/post-card-widget.php:159
+msgid "H4"
+msgstr ""
+
+#: widgets/post-card-widget.php:160
+msgid "H5"
+msgstr ""
+
+#: widgets/post-card-widget.php:161
+msgid "H6"
+msgstr ""
+
+#: widgets/post-card-widget.php:162
+msgid "div"
+msgstr ""
+
+#: widgets/post-card-widget.php:163
+msgid "span"
+msgstr ""
+
+#: widgets/post-card-widget.php:164
+msgid "p"
+msgstr ""
+
+#: widgets/post-card-widget.php:171
+msgid "Content"
+msgstr ""
+
+#: widgets/post-card-widget.php:172
+msgid "Excerpt"
+msgstr ""
+
+#: widgets/post-card-widget.php:179 widgets/post-card-widget.php:309
+msgid "Date"
+msgstr ""
+
+#: widgets/post-card-widget.php:180
+msgid "Title"
+msgstr ""
+
+#: widgets/post-card-widget.php:181
+msgid "Menu Order"
+msgstr ""
+
+#: widgets/post-card-widget.php:182
+msgid "Random"
+msgstr ""
+
+#: widgets/post-card-widget.php:189
+msgid "ASC"
+msgstr ""
+
+#: widgets/post-card-widget.php:190
+msgid "DESC"
+msgstr ""
+
+#: widgets/post-card-widget.php:199
+msgid "Post Card Style"
+msgstr ""
+
+#: widgets/post-card-widget.php:203
+msgid "Select post card style."
+msgstr ""
+
+#: widgets/post-card-widget.php:207
+msgid "Columns"
+msgstr ""
+
+#: widgets/post-card-widget.php:212
+msgid "Select post columns."
+msgstr ""
+
+#: widgets/post-card-widget.php:216
+msgid "Display Number of Posts"
+msgstr ""
+
+#: widgets/post-card-widget.php:220
+msgid "Enter number of posts. e.g. 6."
+msgstr ""
+
+#: widgets/post-card-widget.php:224
+msgid "Image Size"
+msgstr ""
+
+#: widgets/post-card-widget.php:229
+msgid "Select image size."
+msgstr ""
+
+#: widgets/post-card-widget.php:233
+msgid "Show Title"
+msgstr ""
+
+#: widgets/post-card-widget.php:235 widgets/post-card-widget.php:253
+#: widgets/post-card-widget.php:294 widgets/profile-card-widget.php:138
+#: widgets/profile-card-widget.php:182
+msgid "true"
+msgstr ""
+
+#: widgets/post-card-widget.php:238
+msgid "Check/Uncheck to show/hide the title."
+msgstr ""
+
+#: widgets/post-card-widget.php:242
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/post-card-widget.php:247
+msgid "Select title HTML tag."
+msgstr ""
+
+#: widgets/post-card-widget.php:251
+msgid "Show Excerpt"
+msgstr ""
+
+#: widgets/post-card-widget.php:256
+msgid "Check/Uncheck to show/hide the excerpt."
+msgstr ""
+
+#: widgets/post-card-widget.php:260
+msgid "Excerpt Length"
+msgstr ""
+
+#: widgets/post-card-widget.php:262 widgets/profile-card-widget.php:668
+msgid "25"
+msgstr ""
+
+#: widgets/post-card-widget.php:264
+msgid "Enter excerpt length for posts. e.g. 25."
+msgstr ""
+
+#: widgets/post-card-widget.php:268
+msgid "Excerpt From"
+msgstr ""
+
+#: widgets/post-card-widget.php:272
+msgid "Select excerpt from."
+msgstr ""
+
+#: widgets/post-card-widget.php:276
+msgid "Show Read More"
+msgstr ""
+
+#: widgets/post-card-widget.php:278 widgets/post-card-widget.php:286
+#: widgets/post-card-widget.php:392 widgets/post-card-widget.php:416
+#: widgets/post-card-widget.php:433 widgets/post-card-widget.php:440
+#: widgets/post-card-widget.php:446 widgets/post-card-widget.php:460
+#: widgets/post-card-widget.php:490 widgets/post-card-widget.php:503
+#: widgets/post-card-widget.php:510 widgets/post-card-widget.php:547
+#: widgets/post-card-widget.php:560 widgets/post-card-widget.php:604
+#: widgets/post-card-widget.php:611 widgets/post-card-widget.php:648
+#: widgets/post-card-widget.php:678 widgets/post-card-widget.php:691
+#: widgets/post-card-widget.php:698 widgets/profile-card-widget.php:165
+#: widgets/profile-card-widget.php:173 widgets/profile-card-widget.php:312
+#: widgets/profile-card-widget.php:356 widgets/profile-card-widget.php:404
+#: widgets/testimonial-card-widget.php:109
+#: widgets/testimonial-card-widget.php:139
+#: widgets/testimonial-card-widget.php:182
+#: widgets/testimonial-card-widget.php:226
+msgid " "
+msgstr ""
+
+#: widgets/post-card-widget.php:280
+msgid "Check/Uncheck to show/hide the read more."
+msgstr ""
+
+#: widgets/post-card-widget.php:284
+msgid "Read More Text"
+msgstr ""
+
+#: widgets/post-card-widget.php:288
+msgid "Enter read more text for posts. e.g. Read More."
+msgstr ""
+
+#: widgets/post-card-widget.php:292
+msgid "Show Meta Data"
+msgstr ""
+
+#: widgets/post-card-widget.php:297
+msgid "Check/Uncheck to show/hide the meta data."
+msgstr ""
+
+#: widgets/post-card-widget.php:301
+msgid "Meta Data"
+msgstr ""
+
+#: widgets/post-card-widget.php:308
+msgid "Author"
+msgstr ""
+
+#: widgets/post-card-widget.php:310
+msgid "Comments"
+msgstr ""
+
+#: widgets/post-card-widget.php:311
+msgid "Tags"
+msgstr ""
+
+#: widgets/post-card-widget.php:312
+msgid "Category"
+msgstr ""
+
+#: widgets/post-card-widget.php:316
+msgid "Select the meta data you want to display."
+msgstr ""
+
+#: widgets/post-card-widget.php:320
+msgid "Order By"
+msgstr ""
+
+#: widgets/post-card-widget.php:324
+msgid "Select order by."
+msgstr ""
+
+#: widgets/post-card-widget.php:328
+msgid "Sort By"
+msgstr ""
+
+#: widgets/post-card-widget.php:332
+msgid "Select sort by."
+msgstr ""
+
+#: widgets/post-card-widget.php:337
+msgid "Grid Gap"
+msgstr ""
+
+#: widgets/post-card-widget.php:340
+msgid "Set layout grid gap e.g. 30"
+msgstr ""
+
+#: widgets/post-card-widget.php:347
+msgid "Rows Gap"
+msgstr ""
+
+#: widgets/post-card-widget.php:350
+msgid "Set layout row gap e.g. 35"
+msgstr ""
+
+#: widgets/post-card-widget.php:357
+msgid "Alignment"
+msgstr ""
+
+#: widgets/post-card-widget.php:360 widgets/profile-card-widget.php:322
+#: widgets/profile-card-widget.php:366 widgets/profile-card-widget.php:418
+#: widgets/testimonial-card-widget.php:127
+#: widgets/testimonial-card-widget.php:170
+#: widgets/testimonial-card-widget.php:213
+msgid "Left"
+msgstr ""
+
+#: widgets/post-card-widget.php:361 widgets/profile-card-widget.php:323
+#: widgets/profile-card-widget.php:367 widgets/profile-card-widget.php:419
+#: widgets/testimonial-card-widget.php:128
+#: widgets/testimonial-card-widget.php:171
+#: widgets/testimonial-card-widget.php:214
+msgid "Center"
+msgstr ""
+
+#: widgets/post-card-widget.php:362 widgets/profile-card-widget.php:324
+#: widgets/profile-card-widget.php:368 widgets/profile-card-widget.php:420
+#: widgets/testimonial-card-widget.php:129
+#: widgets/testimonial-card-widget.php:172
+#: widgets/testimonial-card-widget.php:215
+msgid "Right"
+msgstr ""
+
+#: widgets/post-card-widget.php:363 widgets/profile-card-widget.php:421
+#: widgets/testimonial-card-widget.php:216
+msgid "Justify"
+msgstr ""
+
+#: widgets/post-card-widget.php:367
+msgid "Set layout alignment"
+msgstr ""
+
+#: widgets/post-card-widget.php:371
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/post-card-widget.php:374
+msgid "Set image border radius"
+msgstr ""
+
+#: widgets/post-card-widget.php:390
+msgid "Image Overlay"
+msgstr ""
+
+#: widgets/post-card-widget.php:398
+msgid "Set overlay for layout Image"
+msgstr ""
+
+#: widgets/post-card-widget.php:403
+msgid "Category Background Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:421
+msgid "Date background Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:423
+msgid "#e74c3c"
+msgstr ""
+
+#: widgets/post-card-widget.php:438
+msgid "Content Box Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:452
+msgid "Date Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:468 widgets/post-card-widget.php:525
+#: widgets/post-card-widget.php:582 widgets/post-card-widget.php:626
+#: widgets/post-card-widget.php:656 widgets/post-card-widget.php:713
+#: widgets/profile-card-widget.php:336 widgets/profile-card-widget.php:380
+#: widgets/profile-card-widget.php:437 widgets/testimonial-card-widget.php:150
+#: widgets/testimonial-card-widget.php:193
+#: widgets/testimonial-card-widget.php:237
+msgid "Select font family."
+msgstr ""
+
+#: widgets/post-card-widget.php:469 widgets/post-card-widget.php:526
+#: widgets/post-card-widget.php:583 widgets/post-card-widget.php:627
+#: widgets/post-card-widget.php:657 widgets/post-card-widget.php:714
+#: widgets/profile-card-widget.php:337 widgets/profile-card-widget.php:381
+#: widgets/profile-card-widget.php:438 widgets/testimonial-card-widget.php:151
+#: widgets/testimonial-card-widget.php:194
+#: widgets/testimonial-card-widget.php:238
+msgid "Select font styling."
+msgstr ""
+
+#: widgets/post-card-widget.php:482
+msgid "Category Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:495
+msgid "Category Hover Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:507
+msgid "Spacing For Category"
+msgstr ""
+
+#: widgets/post-card-widget.php:539
+msgid "Title Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:552
+msgid "Title Color hover"
+msgstr ""
+
+#: widgets/post-card-widget.php:564
+msgid "Spacing For Title"
+msgstr ""
+
+#: widgets/post-card-widget.php:567
+msgid "Set spacing bottom"
+msgstr ""
+
+#: widgets/post-card-widget.php:596
+msgid "Excerpt Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:608
+msgid "Spacing For Excerpt"
+msgstr ""
+
+#: widgets/post-card-widget.php:640
+msgid "Read More color"
+msgstr ""
+
+#: widgets/post-card-widget.php:670
+msgid "Meta Icon Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:683
+msgid "Meta Text Color"
+msgstr ""
+
+#: widgets/post-card-widget.php:695
+msgid "Spacing for meta"
+msgstr ""
+
+#: widgets/post-card-widget.php:726 widgets/profile-card-widget.php:685
+#: widgets/testimonial-card-widget.php:260
+msgid "Field Label"
+msgstr ""
+
+#: widgets/post-card-widget.php:734 widgets/profile-card-widget.php:689
+#: widgets/testimonial-card-widget.php:264
+msgid "Enter description."
+msgstr ""
+
+#: widgets/post-card-widget.php:742
+msgid "Post Card Layout"
+msgstr ""
+
+#: widgets/post-card-widget.php:743
+msgid "Display Post Card Layout."
+msgstr ""
+
+#: widgets/post-card-widget.php:748 widgets/profile-card-widget.php:703
+#: widgets/testimonial-card-widget.php:278
+msgid "Card Elements"
+msgstr ""
+
+#: widgets/profile-card-widget.php:100
+msgid "Card Style 3"
+msgstr ""
+
+#: widgets/profile-card-widget.php:101
+msgid "Card Style 4"
+msgstr ""
+
+#: widgets/profile-card-widget.php:102
+msgid "Card Style 5"
+msgstr ""
+
+#: widgets/profile-card-widget.php:103
+msgid "Card Style 11"
+msgstr ""
+
+#: widgets/profile-card-widget.php:112
+msgid "Profile Card Style"
+msgstr ""
+
+#: widgets/profile-card-widget.php:116
+msgid "Select profile card style."
+msgstr ""
+
+#: widgets/profile-card-widget.php:120 widgets/testimonial-card-widget.php:83
+msgid "Name"
+msgstr ""
+
+#: widgets/profile-card-widget.php:122 widgets/testimonial-card-widget.php:85
+msgid "John Doe"
+msgstr ""
+
+#: widgets/profile-card-widget.php:124
+msgid "Enter profile name."
+msgstr ""
+
+#: widgets/profile-card-widget.php:128 widgets/testimonial-card-widget.php:91
+msgid "Position"
+msgstr ""
+
+#: widgets/profile-card-widget.php:130 widgets/testimonial-card-widget.php:93
+msgid "Developer"
+msgstr ""
+
+#: widgets/profile-card-widget.php:132
+msgid "Enter profile position."
+msgstr ""
+
+#: widgets/profile-card-widget.php:136
+msgid "Display Profile Description"
+msgstr ""
+
+#: widgets/profile-card-widget.php:147
+msgid "Check/Uncheck to show/hide the profile description."
+msgstr ""
+
+#: widgets/profile-card-widget.php:151 widgets/testimonial-card-widget.php:99
+msgid "Description"
+msgstr ""
+
+#: widgets/profile-card-widget.php:153 widgets/testimonial-card-widget.php:101
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisci ng elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: widgets/profile-card-widget.php:159
+msgid "Enter profile description."
+msgstr ""
+
+#: widgets/profile-card-widget.php:163
+msgid "Profile Image"
+msgstr ""
+
+#: widgets/profile-card-widget.php:167
+msgid "Upload profile image."
+msgstr ""
+
+#: widgets/profile-card-widget.php:171
+msgid "Profile Background Image"
+msgstr ""
+
+#: widgets/profile-card-widget.php:175
+msgid "Upload profile background image."
+msgstr ""
+
+#: widgets/profile-card-widget.php:180
+msgid "Display Social Media "
+msgstr ""
+
+#: widgets/profile-card-widget.php:184
+msgid "Check/Uncheck to show/hide the social media icon."
+msgstr ""
+
+#: widgets/profile-card-widget.php:188
+msgid "Facebook Icon"
+msgstr ""
+
+#: widgets/profile-card-widget.php:200 widgets/profile-card-widget.php:228
+#: widgets/profile-card-widget.php:256 widgets/profile-card-widget.php:284
+msgid "Select icon from library."
+msgstr ""
+
+#: widgets/profile-card-widget.php:204
+msgid "Facebook URL (Link)"
+msgstr ""
+
+#: widgets/profile-card-widget.php:212
+msgid "Add url to Facebook."
+msgstr ""
+
+#: widgets/profile-card-widget.php:216
+msgid "Twitter Icon"
+msgstr ""
+
+#: widgets/profile-card-widget.php:232
+msgid "Twitter URL (Link)"
+msgstr ""
+
+#: widgets/profile-card-widget.php:240
+msgid "Add url to twitter."
+msgstr ""
+
+#: widgets/profile-card-widget.php:244
+msgid "Google Plus Icon"
+msgstr ""
+
+#: widgets/profile-card-widget.php:260
+msgid "Google Plus URL (Link)"
+msgstr ""
+
+#: widgets/profile-card-widget.php:268
+msgid "Add url to google plus."
+msgstr ""
+
+#: widgets/profile-card-widget.php:272
+msgid "WordPress Icon"
+msgstr ""
+
+#: widgets/profile-card-widget.php:288
+msgid "WordPress URL (Link)"
+msgstr ""
+
+#: widgets/profile-card-widget.php:296
+msgid "Add url to WordPress."
+msgstr ""
+
+#: widgets/profile-card-widget.php:301 widgets/testimonial-card-widget.php:116
+msgid "Name Text color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:305 widgets/testimonial-card-widget.php:120
+msgid "Set color for name."
+msgstr ""
+
+#: widgets/profile-card-widget.php:309 widgets/testimonial-card-widget.php:136
+msgid "Name Font Size"
+msgstr ""
+
+#: widgets/profile-card-widget.php:319 widgets/testimonial-card-widget.php:124
+msgid "Select Name Alignment"
+msgstr ""
+
+#: widgets/profile-card-widget.php:328
+msgid "Select alignment for name."
+msgstr ""
+
+#: widgets/profile-card-widget.php:345 widgets/testimonial-card-widget.php:159
+msgid "Position Text color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:349 widgets/testimonial-card-widget.php:163
+msgid "Set color for position."
+msgstr ""
+
+#: widgets/profile-card-widget.php:353 widgets/testimonial-card-widget.php:179
+msgid "Position Font Size"
+msgstr ""
+
+#: widgets/profile-card-widget.php:363 widgets/testimonial-card-widget.php:167
+msgid "Select Position Alignment"
+msgstr ""
+
+#: widgets/profile-card-widget.php:372 widgets/testimonial-card-widget.php:175
+msgid "Select alignment for position."
+msgstr ""
+
+#: widgets/profile-card-widget.php:389 widgets/testimonial-card-widget.php:202
+msgid "Description Text color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:397 widgets/testimonial-card-widget.php:206
+#: widgets/testimonial-card-widget.php:255
+msgid "Set color for description."
+msgstr ""
+
+#: widgets/profile-card-widget.php:401 widgets/testimonial-card-widget.php:223
+msgid "Description Font Size"
+msgstr ""
+
+#: widgets/profile-card-widget.php:415 widgets/testimonial-card-widget.php:210
+msgid "Select Description Alignment"
+msgstr ""
+
+#: widgets/profile-card-widget.php:429 widgets/testimonial-card-widget.php:219
+msgid "Select alignment for description."
+msgstr ""
+
+#: widgets/profile-card-widget.php:450 widgets/testimonial-card-widget.php:246
+msgid "Background Color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:458
+msgid "Set card background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:463
+msgid "Background Color For name"
+msgstr ""
+
+#: widgets/profile-card-widget.php:471
+msgid "Set name background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:476
+msgid "Background Color for Position"
+msgstr ""
+
+#: widgets/profile-card-widget.php:484
+msgid "Set position background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:489
+msgid "Triangle Color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:497
+msgid "Set triangle background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:503 widgets/profile-card-widget.php:622
+msgid "Social Area Background Color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:511 widgets/profile-card-widget.php:630
+msgid "social media div background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:516 widgets/profile-card-widget.php:635
+msgid "Primary Color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:524 widgets/profile-card-widget.php:643
+msgid "social media icon background color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:529 widgets/profile-card-widget.php:648
+msgid "Secondary Color"
+msgstr ""
+
+#: widgets/profile-card-widget.php:537 widgets/profile-card-widget.php:656
+msgid "social media icon color."
+msgstr ""
+
+#: widgets/profile-card-widget.php:541
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/profile-card-widget.php:548
+msgid "Select icon size."
+msgstr ""
+
+#: widgets/profile-card-widget.php:555 widgets/profile-card-widget.php:660
+msgid "Border radius"
+msgstr ""
+
+#: widgets/profile-card-widget.php:558
+msgid "0px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:559
+msgid "10px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:560
+msgid "15px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:561
+msgid "20px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:562
+msgid "25px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:563
+msgid "30px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:564
+msgid "35px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:565
+msgid "50px"
+msgstr ""
+
+#: widgets/profile-card-widget.php:574 widgets/profile-card-widget.php:680
+msgid "Select box border radius in."
+msgstr ""
+
+#: widgets/profile-card-widget.php:578
+msgid "Hover Animation"
+msgstr ""
+
+#: widgets/profile-card-widget.php:581
+msgid "None"
+msgstr ""
+
+#: widgets/profile-card-widget.php:582
+msgid "Grow"
+msgstr ""
+
+#: widgets/profile-card-widget.php:583
+msgid "Shrink"
+msgstr ""
+
+#: widgets/profile-card-widget.php:584
+msgid "Pulse"
+msgstr ""
+
+#: widgets/profile-card-widget.php:585
+msgid "Pulse Grow"
+msgstr ""
+
+#: widgets/profile-card-widget.php:586
+msgid "Pulse Shrink"
+msgstr ""
+
+#: widgets/profile-card-widget.php:587
+msgid "Push"
+msgstr ""
+
+#: widgets/profile-card-widget.php:588
+msgid "Pop"
+msgstr ""
+
+#: widgets/profile-card-widget.php:589
+msgid "Bounce In"
+msgstr ""
+
+#: widgets/profile-card-widget.php:590
+msgid "Bounce Out"
+msgstr ""
+
+#: widgets/profile-card-widget.php:591
+msgid "Rotate"
+msgstr ""
+
+#: widgets/profile-card-widget.php:592
+msgid "Grow Rotate"
+msgstr ""
+
+#: widgets/profile-card-widget.php:593
+msgid "Float"
+msgstr ""
+
+#: widgets/profile-card-widget.php:594
+msgid "Sink"
+msgstr ""
+
+#: widgets/profile-card-widget.php:595
+msgid "Bob"
+msgstr ""
+
+#: widgets/profile-card-widget.php:596
+msgid "Hang"
+msgstr ""
+
+#: widgets/profile-card-widget.php:597
+msgid "Skew"
+msgstr ""
+
+#: widgets/profile-card-widget.php:598
+msgid "Skew Forward"
+msgstr ""
+
+#: widgets/profile-card-widget.php:599
+msgid "Skew Backward"
+msgstr ""
+
+#: widgets/profile-card-widget.php:600
+msgid "Wobble Vertical"
+msgstr ""
+
+#: widgets/profile-card-widget.php:601
+msgid "Wobble Horizontal"
+msgstr ""
+
+#: widgets/profile-card-widget.php:602
+msgid "Wobble To Bottom Right"
+msgstr ""
+
+#: widgets/profile-card-widget.php:603
+msgid "Wobble To Top Right"
+msgstr ""
+
+#: widgets/profile-card-widget.php:604
+msgid "Wobble Top"
+msgstr ""
+
+#: widgets/profile-card-widget.php:605
+msgid "Wobble Bottom"
+msgstr ""
+
+#: widgets/profile-card-widget.php:606
+msgid "Wobble Skew"
+msgstr ""
+
+#: widgets/profile-card-widget.php:607
+msgid "Buzz"
+msgstr ""
+
+#: widgets/profile-card-widget.php:608
+msgid "Buzz Out"
+msgstr ""
+
+#: widgets/profile-card-widget.php:617
+msgid "Choose your animation style"
+msgstr ""
+
+#: widgets/profile-card-widget.php:663
+msgid "defalut"
+msgstr ""
+
+#: widgets/profile-card-widget.php:664
+msgid "0"
+msgstr ""
+
+#: widgets/profile-card-widget.php:665
+msgid "10"
+msgstr ""
+
+#: widgets/profile-card-widget.php:666
+msgid "15"
+msgstr ""
+
+#: widgets/profile-card-widget.php:667
+msgid "20"
+msgstr ""
+
+#: widgets/profile-card-widget.php:669
+msgid "30"
+msgstr ""
+
+#: widgets/profile-card-widget.php:670
+msgid "35"
+msgstr ""
+
+#: widgets/profile-card-widget.php:671
+msgid "50"
+msgstr ""
+
+#: widgets/profile-card-widget.php:697
+msgid "Profile Card Layout"
+msgstr ""
+
+#: widgets/profile-card-widget.php:698
+msgid "Display profile card layout."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:75
+msgid "Testimonial Card Layouts option"
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:79
+msgid "Select testimonial card style."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:87
+msgid "Enter testimonial name."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:95
+msgid "Enter testimonial position."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:103
+msgid "Enter testimonial description."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:107
+msgid "Testimonial Image"
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:111
+msgid "Upload testimonial image."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:132
+msgid "Select alignment For name."
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:272
+msgid "Testimonial Card Layout"
+msgstr ""
+
+#: widgets/testimonial-card-widget.php:273
+msgid "Display testimonial card layout."
+msgstr ""
