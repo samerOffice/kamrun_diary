@@ -163,7 +163,7 @@ class WC_Settings_Products extends WC_Settings_Page {
 				),
 
 				array(
-					'desc'            => __( 'Show "verified owner" label on customer reviews', 'woocommerce' ),
+					'desc'            => __( 'Show "verified owner" label on reviews', 'woocommerce' ),
 					'id'              => 'woocommerce_review_rating_verification_label',
 					'default'         => 'yes',
 					'type'            => 'checkbox',

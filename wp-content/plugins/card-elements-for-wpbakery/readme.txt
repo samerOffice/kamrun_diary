@@ -23,7 +23,7 @@ If you are looking for a card presentation design, then Card Elements for WPBake
 Card Elements for WPBakery helpful plugin for all WordPress websites. Below is one small list for which purposes you can start using the card elements plugin.
  
 * You can decorate your blog post in various styles.
-* Showcase your customer reviews in attractive ways.
+* Showcase your reviews in attractive ways.
 * Decorate your tour and travel packages differently.
 * You can design your recipe card in minutes.
 * Present your listing card in unique ways.

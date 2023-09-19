@@ -109,8 +109,8 @@ const ReviewsCount = ( props: { reviews: number } ): JSX.Element => {
 	const reviewsCount = sprintf(
 		/* translators: %s is referring to the total of reviews for a product */
 		_n(
-			'(%s customer review)',
-			'(%s customer reviews)',
+			'(%s review)',
+			'(%s reviews)',
 			reviews,
 			'woo-gutenberg-products-block'
 		),

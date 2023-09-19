@@ -12890,7 +12890,7 @@ msgstr ""
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:537
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:749
 #: includes/export/class-wc-product-csv-exporter.php:136
-msgid "Allow customer reviews?"
+msgid "Allow reviews?"
 msgstr ""
 
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:538
@@ -17012,7 +17012,7 @@ msgid "Enable product reviews"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-products.php:166
-msgid "Show \"verified owner\" label on customer reviews"
+msgid "Show \"verified owner\" label on reviews"
 msgstr ""
 
 #: includes/admin/settings/class-wc-settings-products.php:176
@@ -32128,8 +32128,8 @@ msgstr[1] ""
 #: packages/woocommerce-blocks/build/product-rating-counter.js:2
 #: packages/woocommerce-blocks/build/product-rating-frontend.js:4
 #: packages/woocommerce-blocks/build/product-rating.js:4
-msgid "(%s customer review)"
-msgid_plural "(%s customer reviews)"
+msgid "(%s review)"
+msgid_plural "(%s reviews)"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -39875,8 +39875,8 @@ msgid "Awaiting product image"
 msgstr ""
 
 #: templates/single-product/rating.php:38
-msgid "%s customer review"
-msgid_plural "%s customer reviews"
+msgid "%s review"
+msgid_plural "%s reviews"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -47769,7 +47769,7 @@ msgstr ""
 #: packages/woocommerce-blocks/build/all-products.js:19
 #: packages/woocommerce-blocks/build/product-rating-counter-frontend.js:2
 #: packages/woocommerce-blocks/build/product-rating-counter.js:2
-msgid "(X customer reviews)"
+msgid "(X reviews)"
 msgstr ""
 
 #: packages/woocommerce-blocks/build/all-products.js:19

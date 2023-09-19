@@ -534,7 +534,7 @@ class WC_Product_CSV_Importer_Controller {
 					sprintf( __( 'Width (%s)', 'woocommerce' ), $dimension_unit_label ) => 'width',
 					/* translators: %s: Height unit */
 					sprintf( __( 'Height (%s)', 'woocommerce' ), $dimension_unit_label ) => 'height',
-					__( 'Allow customer reviews?', 'woocommerce' ) => 'reviews_allowed',
+					__( 'Allow reviews?', 'woocommerce' ) => 'reviews_allowed',
 					__( 'Purchase note', 'woocommerce' )  => 'purchase_note',
 					__( 'Sale price', 'woocommerce' )     => 'sale_price',
 					__( 'Regular price', 'woocommerce' )  => 'regular_price',
@@ -746,7 +746,7 @@ class WC_Product_CSV_Importer_Controller {
 					'attributes:default' . $index  => __( 'Default attribute', 'woocommerce' ),
 				),
 			),
-			'reviews_allowed'    => __( 'Allow customer reviews?', 'woocommerce' ),
+			'reviews_allowed'    => __( 'Allow reviews?', 'woocommerce' ),
 			'purchase_note'      => __( 'Purchase note', 'woocommerce' ),
 			'meta:' . $meta      => __( 'Import as meta data', 'woocommerce' ),
 			'menu_order'         => __( 'Position', 'woocommerce' ),

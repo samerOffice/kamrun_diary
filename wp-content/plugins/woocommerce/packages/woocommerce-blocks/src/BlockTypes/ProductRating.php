@@ -151,8 +151,8 @@ class ProductRating extends AbstractBlock {
 					$customer_reviews_count = sprintf(
 						/* translators: %s is referring to the total of reviews for a product */
 						_n(
-							'(%s customer review)',
-							'(%s customer reviews)',
+							'(%s review)',
+							'(%s reviews)',
 							$reviews_count,
 							'woocommerce'
 						),

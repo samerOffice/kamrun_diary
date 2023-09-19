@@ -61,7 +61,7 @@ function wc_importer_default_english_mappings( $mappings ) {
 		sprintf( 'Length (%s)', $dimension_unit ) => 'length',
 		sprintf( 'Width (%s)', $dimension_unit )  => 'width',
 		sprintf( 'Height (%s)', $dimension_unit ) => 'height',
-		'Allow customer reviews?'                 => 'reviews_allowed',
+		'Allow reviews?'                 => 'reviews_allowed',
 		'Purchase note'                           => 'purchase_note',
 		'Sale price'                              => 'sale_price',
 		'Regular price'                           => 'regular_price',

@@ -133,7 +133,7 @@ class WC_Product_CSV_Exporter extends WC_CSV_Batch_Exporter {
 				'width'              => sprintf( __( 'Width (%s)', 'woocommerce' ), $dimension_unit_label ),
 				/* translators: %s: Height */
 				'height'             => sprintf( __( 'Height (%s)', 'woocommerce' ), $dimension_unit_label ),
-				'reviews_allowed'    => __( 'Allow customer reviews?', 'woocommerce' ),
+				'reviews_allowed'    => __( 'Allow reviews?', 'woocommerce' ),
 				'purchase_note'      => __( 'Purchase note', 'woocommerce' ),
 				'sale_price'         => __( 'Sale price', 'woocommerce' ),
 				'regular_price'      => __( 'Regular price', 'woocommerce' ),
